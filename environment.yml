@@ -9,4 +9,4 @@ dependencies:
   - matplotlib==3.3.2
   - watermark==2.1.0
   - networkx==2.5
-  - scikit_learn==0.24.1
+  - scikit_learn==0.23.2
