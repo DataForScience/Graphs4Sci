@@ -5,6 +5,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/Graphs4Sci)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Graphs4Sci/master)
 
+
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
+
 # Graphs For Data Science
 
 ![Net_DBSCAN](https://raw.githubusercontent.com/DataForScience/Graphs4Sci/master/data/Moons4Sci.png)
