@@ -1,9 +1,12 @@
 ![GitHub](https://img.shields.io/github/license/DataForScience/Graphs4Sci)
-![Twitter Follow](https://img.shields.io/twitter/follow/data4sci?style=social)
+[![Twitter @data4sci](https://img.shields.io/twitter/follow/data4sci)](https://twitter.com/intent/follow?screen_name=data4sci)
 ![GitHub top language](https://img.shields.io/github/languages/top/DataForScience/Graphs4Sci)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/Graphs4Sci)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/Graphs4Sci)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Graphs4Sci/master)
+
+
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
 
 # Graphs For Data Science
 
@@ -20,4 +23,5 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 3. [Understanding DBSCAN and K-NN with Random Geometric Graphs
 ](https://graphs4sci.substack.com/p/understanding-dbscan-and-k-nn-with) - [GRandom Networks.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Random%20Networks.ipynb)
 
-Subscrive to the [__Graphs For Data Science__](https://graphs4sci.substack.com/subscribe) substack and never miss a post!
+Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
+ and never miss a post!
