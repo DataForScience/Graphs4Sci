@@ -21,7 +21,9 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 2. [Graphs 101 - A deep look at the airline transportation network](https://graphs4sci.substack.com/p/graphs-101) - [Graphs 101 - Airline Network.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Graphs%20101%20-%20Airline%20Network.ipynb)
 
 3. [Understanding DBSCAN and K-NN with Random Geometric Graphs
-](https://graphs4sci.substack.com/p/understanding-dbscan-and-k-nn-with) - [GRandom Networks.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Random%20Networks.ipynb)
+](https://graphs4sci.substack.com/p/understanding-dbscan-and-k-nn-with) - [Random Networks.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Random%20Networks.ipynb)
+
+4. [Word Networks for Language Generation](https://graphs4sci.substack.com/p/word-networks-for-language-generation) - [n-grams.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/n-grams.ipynb)
 
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
  and never miss a post!
