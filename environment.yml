@@ -13,4 +13,4 @@ dependencies:
   - osmnx==1.0.1
   - scipy==1.6.0
   - ipywidgets==7.5.1
-  - scikit_learn==0.24.1
+  - scikit-learn==0.24.1
