@@ -14,5 +14,4 @@ dependencies:
   - osmnx==1.0.1
   - scipy==1.6.1
   - numpy==1.20.1
-  - Graph==0.4
   - scikit-learn==0.24.1
