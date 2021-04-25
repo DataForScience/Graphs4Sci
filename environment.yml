@@ -1,18 +1,18 @@
 dependencies:
   - tqdm==4.50.2
-  - networkx==2.5
-  - Cartopy==0.18.0
-  - scipy==1.6.1
-  - seaborn==0.11.0
-  - wget==3.2
   - gensim==3.8.3
+  - Cartopy==0.18.0
   - pandas==1.2.2
-  - matplotlib==3.3.2
-  - numpy==1.20.1
-  - nltk==3.5
-  - osmnx==1.0.1
-  - geopy==2.1.0
   - watermark==2.1.0
   - ipywidgets==7.5.1
-  - fastcluster==1.1.26
+  - geopy==2.1.0
+  - nltk==3.5
+  - seaborn==0.11.0
+  - wget
+  - networkx==2.5
+  - matplotlib==3.3.2
+  - osmnx==1.0.1
+  - scipy==1.6.1
+  - numpy==1.20.1
+  - Graph==0.4
   - scikit-learn==0.24.1
