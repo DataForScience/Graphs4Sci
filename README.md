@@ -27,13 +27,15 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 5. [Searching Graphs: Or how to get turn by turn directions from Open Street Map](https://graphs4sci.substack.com/p/searching-graphs) - [Search.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Search.ipynb)
 
-6. [Graph Embeddings 101: From word2vec to node2vec, and beyond](https://graphs4sci.substack.com/p/searching-graphs) - [node2vec.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/node2vec.ipynb)
+6. [Structural Causal Models: Reasoning with DAGs](https://graphs4sci.substack.com/p/structural-causal-models)
 
-7. [Node Centrality: Degree, Closeness, and Betweenness Centrality](https://graphs4sci.substack.com/p/searching-graphs) - [Node Centrality.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Node%20Centrality.ipynb)
+7. [Graph Embeddings 101: From word2vec to node2vec, and beyond](https://graphs4sci.substack.com/p/searching-graphs) - [node2vec.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/node2vec.ipynb)
 
-8. [Graph Components: Strongly and Weakly Connected Components](https://graphs4sci.substack.com/p/graph-components) - [Components.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Components.ipynb)\
+8. [Node Centrality: Degree, Closeness, and Betweenness Centrality](https://graphs4sci.substack.com/p/searching-graphs) - [Node Centrality.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Node%20Centrality.ipynb)
 
-9. [Bitcoin Transaction Network: Networks on the blockchain](https://graphs4sci.substack.com/p/bitcoin-transaction-network) - [Blockchain.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Blockchain.ipynb)
+9. [Graph Components: Strongly and Weakly Connected Components](https://graphs4sci.substack.com/p/graph-components) - [Components.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Components.ipynb)\
+
+10. [Bitcoin Transaction Network: Networks on the blockchain](https://graphs4sci.substack.com/p/bitcoin-transaction-network) - [Blockchain.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Blockchain.ipynb)
 
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
  and never miss a post!
