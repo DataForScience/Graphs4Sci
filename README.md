@@ -35,7 +35,9 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 9. [Graph Components: Strongly and Weakly Connected Components](https://graphs4sci.substack.com/p/graph-components) - [Components.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Components.ipynb)\
 
-10. [Bitcoin Transaction Network: Networks on the blockchain](https://graphs4sci.substack.com/p/bitcoin-transaction-network) - [Blockchain.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Blockchain.ipynb)
+10. [Bitcoin Transaction Network: Networks on the blockchain](https://graphs4sci.substack.com/p/bitcoin-transaction-network) - [Blockchain.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Blockchain.ipynb)\
+
+11. [Network Motifs: Frequent patterns in Graphs](https://graphs4sci.substack.com/p/network-motifs) - [motifs.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/motifs.ipynb)
 
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
  and never miss a post!
