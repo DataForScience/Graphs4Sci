@@ -39,5 +39,7 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 11. [Network Motifs: Frequent patterns in Graphs](https://graphs4sci.substack.com/p/network-motifs) - [motifs.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/motifs.ipynb)
 
+12. [Erdős-Rényi Model and Clustering Coefficient](https://graphs4sci.substack.com/p/erdos-renyi-model-and-clustering) - [ER and Clustering Coefficient.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/ER%20and%20Clustering%20Coefficient.ipynb)
+
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
  and never miss a post!
