@@ -43,5 +43,7 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 13. [The Watts-Strogatz Model and the Small World Effect](https://graphs4sci.substack.com/p/the-watts-strogatz-model-and-the) - [WS and the Small World Effect.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/WS%20and%20the%20Small%20World%20Effect.ipynb)
 
+14. [Barabasi-Albert Model and Preferential Attachment](https://graphs4sci.substack.com/p/preferential-attachment-and-the-barabasi) - [BA Model and Preferential Attachment.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/BA%20Model%20and%20Preferential%20Attachment.ipynb)
+
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
  and never miss a post!
