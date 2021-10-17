@@ -33,9 +33,9 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 8. [Node Centrality: Degree, Closeness, and Betweenness Centrality](https://graphs4sci.substack.com/p/searching-graphs) - [Node Centrality.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Node%20Centrality.ipynb)
 
-9. [Graph Components: Strongly and Weakly Connected Components](https://graphs4sci.substack.com/p/graph-components) - [Components.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Components.ipynb)\
+9. [Graph Components: Strongly and Weakly Connected Components](https://graphs4sci.substack.com/p/graph-components) - [Components.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Components.ipynb)
 
-10. [Bitcoin Transaction Network: Networks on the blockchain](https://graphs4sci.substack.com/p/bitcoin-transaction-network) - [Blockchain.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Blockchain.ipynb)\
+10. [Bitcoin Transaction Network: Networks on the blockchain](https://graphs4sci.substack.com/p/bitcoin-transaction-network) - [Blockchain.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Blockchain.ipynb)
 
 11. [Network Motifs: Frequent patterns in Graphs](https://graphs4sci.substack.com/p/network-motifs) - [motifs.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/motifs.ipynb)
 
@@ -45,7 +45,7 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 14. [Barabasi-Albert Model and Preferential Attachment](https://graphs4sci.substack.com/p/preferential-attachment-and-the-barabasi) - [BA Model and Preferential Attachment.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/BA%20Model%20and%20Preferential%20Attachment.ipynb)
 
-15. [Network Assortativity and the Configurational Model](https://graphs4sci.substack.com/p/network-assortativity-and-the-configurational) - [Degree Correlations and the Configurational Model](https://github.com/DataForScience/Graphs4Sci/blob/master/Degree%20Correlations%20and%20the%20Configurational%20Model.ipynb)
+15. [Network Assortativity and the Configurational Model](https://graphs4sci.substack.com/p/network-assortativity-and-the-configurational) - [Degree Correlations and the Configurational Model.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Degree%20Correlations%20and%20the%20Configurational%20Model.ipynb)
 
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
  and never miss a post!
