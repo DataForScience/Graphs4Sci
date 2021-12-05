@@ -47,5 +47,7 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 15. [Network Assortativity and the Configurational Model](https://graphs4sci.substack.com/p/network-assortativity-and-the-configurational) - [Degree Correlations and the Configurational Model.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Degree%20Correlations%20and%20the%20Configurational%20Model.ipynb)
 
+16. [Markov Chains and PageRank](https://graphs4sci.substack.com/p/markov-chains-and-pagerank) - [PageRank.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/PageRank.ipynb)
+
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
  and never miss a post!
