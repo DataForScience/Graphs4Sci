@@ -60,9 +60,9 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 21. [Prim's Minimum Spanning Tree Algorithm](https://graphs4sci.substack.com/p/prims-minimum-spanning-tree-algorithm) - [Prim's MST Algorithm.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Prim's%20MST%20Algorithm.ipynb)\
 
-22. [Kahn's Algorithm for Topological Sorting](https://graphs4sci.substack.com/p/kahns-algorithm-for-topological-sorting) - [Topological Sorting.ipynb]()
+22. [Kahn's Algorithm for Topological Sorting](https://graphs4sci.substack.com/p/kahns-algorithm-for-topological-sorting) - [Topological Sorting.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Topological%20Sorting.ipynb)
 
-23. [Network Attacks](https://graphs4sci.substack.com/p/network-attacks) - [Network Attacks.ipynb]()
+23. [Network Attacks](https://graphs4sci.substack.com/p/network-attacks) - [Network Attacks.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Network%20Attacks.ipynb)
 
 
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
