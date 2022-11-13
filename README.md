@@ -12,7 +12,9 @@
 
 ![Net_DBSCAN](https://raw.githubusercontent.com/DataForScience/Graphs4Sci/master/data/Moons4Sci.png)
 
-Repository to accompany the substack [__Graphs For Data Science__](https://graphs4sci.substack.com/subscribe)
+Repository to accompany the substack __Graphs For Data Science__
+
+Graphs for Data Science is a reader-supported publication. To receive new posts and support my work, consider becoming a [free or paid subscriber](https://graphs4sci.substack.com/subscribe).
 
 All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Graphs4Sci/master) and each blog post corresponds to a differnet notebook
 
@@ -49,8 +51,7 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 16. [Markov Chains and PageRank](https://graphs4sci.substack.com/p/markov-chains-and-pagerank) - [PageRank.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/PageRank.ipynb)\
 
-17. [Community Structure and Network Modularity
-](https://graphs4sci.substack.com/p/community-structure-and-modularity) - [Community Detection.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Community%20Detection.ipynb)
+17. [Community Structure and Network Modularity](https://graphs4sci.substack.com/p/community-structure-and-modularity) - [Community Detection.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Community%20Detection.ipynb)
 
 18. [Epidemic Models](https://graphs4sci.substack.com/p/epidemic-models) 
 
@@ -58,7 +59,7 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 20. [Neighborhood Overlap and Edge Weights](https://graphs4sci.substack.com/p/neighborhood-overlap-and-edge-weights) - [Edge Weight and Network structure.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Edge%20Weight%20and%20Network%20structure.ipynb)
 
-21. [Prim's Minimum Spanning Tree Algorithm](https://graphs4sci.substack.com/p/prims-minimum-spanning-tree-algorithm) - [Prim's MST Algorithm.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Prim's%20MST%20Algorithm.ipynb)\
+21. [Prim's Minimum Spanning Tree Algorithm](https://graphs4sci.substack.com/p/prims-minimum-spanning-tree-algorithm) - [Prim's MST Algorithm.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Prim's%20MST%20Algorithm.ipynb)
 
 22. [Kahn's Algorithm for Topological Sorting](https://graphs4sci.substack.com/p/kahns-algorithm-for-topological-sorting) - [Topological Sorting.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Topological%20Sorting.ipynb)
 
