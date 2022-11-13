@@ -47,7 +47,23 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 15. [Network Assortativity and the Configurational Model](https://graphs4sci.substack.com/p/network-assortativity-and-the-configurational) - [Degree Correlations and the Configurational Model.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Degree%20Correlations%20and%20the%20Configurational%20Model.ipynb)
 
-16. [Markov Chains and PageRank](https://graphs4sci.substack.com/p/markov-chains-and-pagerank) - [PageRank.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/PageRank.ipynb)
+16. [Markov Chains and PageRank](https://graphs4sci.substack.com/p/markov-chains-and-pagerank) - [PageRank.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/PageRank.ipynb)\
+
+17. [Community Structure and Network Modularity
+](https://graphs4sci.substack.com/p/community-structure-and-modularity) - [Community Detection.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Community%20Detection.ipynb)
+
+18. [Epidemic Models](https://graphs4sci.substack.com/p/epidemic-models) 
+
+19. [Bipartite Graphs 101](https://graphs4sci.substack.com/p/bipartite-graphs-101) - [Bipartite 101.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Bipartite%20101.ipynb)
+
+20. [Neighborhood Overlap and Edge Weights](https://graphs4sci.substack.com/p/neighborhood-overlap-and-edge-weights) - [Edge Weight and Network structure.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Edge%20Weight%20and%20Network%20structure.ipynb)
+
+21. [Prim's Minimum Spanning Tree Algorithm](https://graphs4sci.substack.com/p/prims-minimum-spanning-tree-algorithm) - [Prim's MST Algorithm.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Prim's%20MST%20Algorithm.ipynb)\
+
+22. [Kahn's Algorithm for Topological Sorting](https://graphs4sci.substack.com/p/kahns-algorithm-for-topological-sorting) - [Topological Sorting.ipynb]()
+
+23. [Network Attacks](https://graphs4sci.substack.com/p/network-attacks) - [Network Attacks.ipynb]()
+
 
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
  and never miss a post!
