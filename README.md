@@ -66,5 +66,32 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 23. [Network Attacks](https://graphs4sci.substack.com/p/network-attacks) - [Network Attacks.ipynb](https://github.com/DataForScience/Graphs4Sci/blob/master/Network%20Attacks.ipynb)
 
 
-Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
+Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://data4sci.substack.com/subscribe)
  and never miss a post!
+
+---
+
+## Questions?
+
+Reach out at <a href="mailto:info@data4sci.com">info@data4sci.com</a> or open an issue if something isn't working.
+
+## Author
+
+<table border="0">
+ <tr>
+        <td>
+          <img src="data/bgoncalves.png" alt="Bruno Gonçalves" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+        </td>
+        <td>
+          <h2>Bruno Gonçalves</h2>
+          <h3>Data For Science, Inc.</h3>
+          <p>
+                        Web: <a href="http://www.data4sci.com/">www.data4sci.com</a><br>
+                        Twitter/X: <a href="https://twitter.com/bgoncalves">@bgoncalves</a><br>
+                        LinkedIn: <a href="https://www.linkedin.com/in/bmtgoncalves/">@bmtgoncalves</a><br>
+                        Email: <a href="mailto:info@data4sci.com">info@data4sci.com</a><br>
+                        Schedule a Call: <a href="https://data4sci.com/call">data4sci.com/call</a>
+          </p>
+        </td>
+ </tr>
+</table>
