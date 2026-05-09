@@ -6,7 +6,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Graphs4Sci/master)
 
 
-[![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://data4sci.substack.com/subscribe)
 
 # Graphs For Data Science
 
@@ -69,7 +69,7 @@ All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](htt
 1\. [Graph Algorithms for Data Science](https://graphs4sci.substack.com/p/coming-soon)
 
 
-Subscribe to __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe) and never miss a post!
+Subscribe to __Data for Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://data4sci.substack.com/subscribe) and never miss a post!
 
 ---
 

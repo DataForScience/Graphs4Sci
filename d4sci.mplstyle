@@ -4,7 +4,7 @@
 # Author: Cameron Davidson-Pilon, replicated styles from FiveThirtyEight.com
 # See https://www.dataorigami.net/blogs/fivethirtyeight-mpl
 
-lines.linewidth: 4
+lines.linewidth: 3
 lines.solid_capstyle: butt
 
 legend.fancybox: true
@@ -31,10 +31,10 @@ xtick.minor.size: 0
 ytick.major.size: 0
 ytick.minor.size: 0
 
-font.size: 24.0
+font.size: 18.0
 
-savefig.edgecolor: f0f0f0
-savefig.facecolor: f0f0f0
+savefig.edgecolor: ffffff
+savefig.facecolor: ffffff
 
 figure.subplot.left: 0.08
 figure.subplot.right: 0.95
